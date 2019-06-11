@@ -1,0 +1,129 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/7c7963c2b74b0f4f19ae3972f75b7f18.jpg_750x200_347ecfa5.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/d7bbc21db442366a882e04ddc984669a.jpg_750x200_85e640d9.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/87a224d0349d94a11e97f31aa1aba4f5.jpg_750x200_1f78af87.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/5cfb89bebe41028d9b6732bcbe959cd6.jpg_750x200_4eb23790.jpg"
+      },{
+        "id": "0005",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/fd8c3e553ad9196058853d015bd67d29.jpg_750x200_2c5b094a.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "一日游"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "长沙必游"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png",
+        "desc": "踏青赏花"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+        "desc": "游乐园"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "动植物园"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+        "desc": "自然风光"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+        "desc": "湘西凤凰"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png",
+        "desc": "橘子洲"
+      }, {
+        "id": "0010",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+        "desc": "玻璃桥"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "score":4.7,
+        "comment":1853,
+        "price":65.9,
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/57/579b6c97900745db.water.jpg_200x200_f09770c8.jpg",
+        "title": "橘子洲",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+      }, {
+        "id": "0002",
+        "score":4.8,
+        "comment":820,
+        "price":90,
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1804/91/917f8ff98ab0bf6fa3.img.jpg_200x200_9e34ba97.jpg",
+        "title": "湖南省森林植物园",
+        "desc": "北京专业级滑雪圣地"
+      }, {
+        "id": "0003",
+        "score":4.3,
+        "comment":1023,
+        "price":70,
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/68/42da26a54c27a3c237b4d10a61583c36.water.jpg_200x200_a38c904d.jpg",
+        "title": "靖港古镇",
+        "desc": "我爱北京天安门，天安门上太阳升"
+      }, {
+        "id": "0004",
+        "score":4.8,
+        "comment":602,
+        "price":132,
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/84/59a55aa2632a3104e3c527301def622f.water.jpg_200x200_d5531e22.jpg",
+        "title": "柏乐园",
+        "desc": "中国的荣耀，阳光下的晶莹水滴"
+      }, {
+        "id": "0005",
+        "score":4.2,
+        "comment":532,
+        "price":50,
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1611/20/205db6ee32a4a29ba3.water.jpg_200x200_0ce2204c.jpg",
+        "title": "海立方海洋公园",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/fb/302620ed8350f8.jpg_r_640x214_25a07cb4.jpg",
+        "title": "长沙必打卡",
+        "desc": "到了长沙，一定要到这些地方走走"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/88/8d3b492ebf0b16.jpg_r_640x214_7b3a281d.jpg",
+        "title": "邂逅凤凰城",
+        "desc": "凤凰古城一个古老而神秘的地方，风景秀丽，历史悠久，人杰地灵，名贤辈出，名胜古迹众多"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b4/71c01c98139cf.jpg_r_640x214_30bac495.jpg",
+        "title": "亲身体验人间仙境",
+        "desc": "天桥天地，绝壁高崖之间的高台，台下深不见底的山涧，天风朗朗，云气翻腾，仙境之感扑面而来"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/89/b2beff9f28b0db.jpg_r_640x214_94143396.jpg",
+        "title": "玩味童年",
+        "desc": "幸福之家，快乐成长"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1812/1e/131ba1bc67be3e.jpg_r_640x214_edd2705d.jpg",
+        "title": "株洲必打卡",
+        "desc": "亲身体验株洲当地人最爱的去处"
+      }]
+  }
+}
