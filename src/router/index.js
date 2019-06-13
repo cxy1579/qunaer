@@ -1,9 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from '@/components/home/Home'
-import City from '@/components/city/City'
-import Detail from '@/components/detail/Detail'
-import Week from '@/components/week/Week'
 Vue.use(Router)
 
 export default new Router({
@@ -11,22 +7,22 @@ export default new Router({
     {
       path: '/',
       name: 'HomeLink',
-      component: Home,
+      component: resolve => require(['@/components/home/Home'], resolve),
     },
     {
       path: '/city',
       name: 'CityLink',
-      component: City,
+      component: resolve => require(['@/components/city/City'], resolve),
     },
     {
       path: '/detail/:id',
       name: 'DetailLink',
-      component: Detail,
+      component: resolve => require(['@/components/detail/Detail'], resolve),
     },
     {
       path: '/week/:id',
       name: 'WeekLink',
-      component: Week,
+      component: resolve => require(['@/components/week/Week'], resolve),
     }
   ]
 })
